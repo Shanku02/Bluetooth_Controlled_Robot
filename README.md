@@ -1,4 +1,4 @@
-#Bluetooth_Controlled_Robot 
+# Bluetooth_Controlled_Robot 
 
 Welcome to the Bluetooth Controlled Robot repository! This project showcases a versatile robot that can be remotely controlled using Bluetooth technology. This repository includes all necessary code, schematics, and documentation to help you build and customize your own Bluetooth-controlled robot. 
 
