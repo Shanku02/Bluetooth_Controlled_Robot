@@ -1,6 +1,6 @@
-Getting Started
+#Bluetooth_Controlled_Robot 
 
-Welcome to the Bluetooth Controlled Robot repository! This project showcases a versatile robot that can be remotely controlled using Bluetooth technology. This repository includes all necessary code, schematics, and documentation to help you build and customize your own Bluetooth controlled robot. 
+Welcome to the Bluetooth Controlled Robot repository! This project showcases a versatile robot that can be remotely controlled using Bluetooth technology. This repository includes all necessary code, schematics, and documentation to help you build and customize your own Bluetooth-controlled robot. 
 
 Features: 
   1. Bluetooth Connectivity: Control the robot using a Bluetooth-enabled smartphone 
@@ -20,10 +20,10 @@ Hardware Requirements:
 
 Software Requirements:
 Arduino IDE: For programming the Arduino microcontroller.
-Bluetooth Terminal App: For controlling the robot from a mobile device. For example: "Arduino Bluetooth Control" for android and "LightBlue" for ios.
+Bluetooth Terminal App: For controlling the robot from a mobile device. For example: "Arduino Bluetooth Control" for Android and "LightBlue" for iOS.
 
 
-
+#Getting Started
   1. Clone the Repository:
   2. Hardware Setup: Follow the provided schematics to connect the Bluetooth module, motor driver, and other components to the Arduino.
   3. Upload the Code: Open the Arduino IDE, load the provided .ino file, and upload it to your Arduino board.
