@@ -32,11 +32,11 @@ Bluetooth Terminal App: For controlling the robot from a mobile device. For exam
   6. Control the Robot: Use a Bluetooth terminal app to send movement commands to the robot.
 
 Commands
-Forward: Press F / ^
-Backward: Press B / ⌄
-Left: Press L / <
-Right: Press R / >
-Stop: Press S / □
+  1. Forward: Press F / ^
+  2. Backward: Press B / ⌄
+  3. Left: Press L / <
+  4. Right: Press R / >
+  5. Stop: Press S / □
 
 Customization:
 The Arduino code can be easily customized to add new features or modify existing ones. Feel free to experiment with different sensors, actuators, or control algorithms to enhance your robot.
