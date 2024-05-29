@@ -28,7 +28,7 @@ Bluetooth Terminal App: For controlling the robot from a mobile device. For exam
   2. Hardware Setup: Follow the provided schematics to connect the Bluetooth module, motor driver, and other components to the Arduino.
   3. Upload the Code: Open the Arduino IDE, load the provided .ino file, and upload it to your Arduino board.
   4. Pair Bluetooth Device: Pair your Bluetooth-enabled device with the HC-05/HC-06 module.
-  5. Check the Bluetooth working code and when successful upload the main code.
+  5. Upload the bluetooth_check.ino code to check the working of the bluetooth and when successful upload the main code.
   6. Control the Robot: Use a Bluetooth terminal app to send movement commands to the robot.
 
 Commands
