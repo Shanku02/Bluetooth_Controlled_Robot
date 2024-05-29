@@ -23,7 +23,7 @@ Arduino IDE: For programming the Arduino microcontroller.
 Bluetooth Terminal App: For controlling the robot from a mobile device. For example: "Arduino Bluetooth Control" for Android and "LightBlue" for iOS.
 
 
-#Getting Started
+# Getting Started
   1. Clone the Repository:
   2. Hardware Setup: Follow the provided schematics to connect the Bluetooth module, motor driver, and other components to the Arduino.
   3. Upload the Code: Open the Arduino IDE, load the provided .ino file, and upload it to your Arduino board.
